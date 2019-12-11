@@ -50,5 +50,3 @@ $ npm start
 ```
 
 ### License
-
-MIT
